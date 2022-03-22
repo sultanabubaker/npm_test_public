@@ -8,8 +8,9 @@
   },
   "dependencies": {
     "graphlib": "2.1.1",
-    "lodash": "^4.17.4"
-  }
+    "lodash": "^4.17.4",
+    "send": "0.11.1"
+  },
   "author": "sami salami",
   "license": "ISC",
   "private": true
